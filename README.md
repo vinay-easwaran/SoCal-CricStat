@@ -5,5 +5,5 @@ Web Scraper that finds a player and cumulates stats on CricClubs pages and displ
 
 - Download the folder in your Python resource folder
 - Run cricscrape.py
-- Type: CricStat("{}") - {} = The player you want to search for in proper punctuation
+- Type: CricScrape("{}") - {} = The player you want to search for in proper punctuation
 - If the player is found the results will be printed
